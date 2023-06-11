@@ -1,0 +1,10 @@
+.wapp{
+  width: 4%;
+  position: fixed;
+  right: 20px; /* Ajusta la posición horizontal según tus necesidades */
+  bottom: 20px; /* Ajusta la posición vertical según tus necesidades */
+  /* box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3); */
+  z-index: 100;
+}
+
+
