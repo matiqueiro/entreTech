@@ -1,3 +1,6 @@
+# Image 
+![screencapture-localhost-3000-2023-06-06-19_22_56](https://github.com/matiqueiro/javion/assets/72896152/249194b6-2d0d-4346-a3da-e74f441e8e2f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
