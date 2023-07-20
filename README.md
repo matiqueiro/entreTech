@@ -1,5 +1,5 @@
 # Image 
-![screencapture-localhost-3000-2023-06-06-19_22_56](https://github.com/matiqueiro/javion/assets/72896152/249194b6-2d0d-4346-a3da-e74f441e8e2f)
+![screencapture-localhost-3000-2023-06-06-19_22_56](https://github.com/matiqueiro/entreTech/assets/72896152/b3856b9d-cbbb-43bd-b60f-bbfd8a39fdb4)
 
 # Getting Started with Create React App
 
